@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 关于“小猎犬号”
+“小猎犬号”是一艘传奇的英国海军勘探船。达尔文曾以博物学家的身份乘坐该船进行了长达五年的环球航行，这一路上的观察与思考最终促成了进化论的诞生。另一个少为人知的事实是小猎犬号的船长，菲茨罗伊海军中将，其实是气象学与天气预报的开拓者。总之，那是个辉煌的时代，人类遨游与广阔的自然与历史之中，产生了无数伟大而激动人心的思想，而这些思想又促进着人类的大步发展。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+反观现在，不得不说那份激清已经随着人类对自然的掌握程度的增加而渐渐褪去。人类似乎比以往任何时候都要更“卷”了。我们生活在一个后真相时代，无数繁杂的信息鱼龙混杂，真假难辨，更多的是为了煽动或者勾起某种情绪而非客观地描述事实。我希望“小猎犬号”能成为读者朋友的一个纯净的精神家园。
