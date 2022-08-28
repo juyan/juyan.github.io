@@ -42,6 +42,8 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+google_analytics: G-SR7BVEQC27
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
