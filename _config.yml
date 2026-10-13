@@ -1,10 +1,10 @@
 title: 我的网站
-SEOTitle: 我的网站
+SEOTitle: 我的网站 · 设计与记录
 email: ""
-avatar: ""
+avatar: /assets/covers/archive.webp
 description: 关于形态、光影与设计的持续探索。
 keyword: 作品集,设计,记录
-url: ""
+url: https://juyan.github.io
 baseurl: ""
 header-img: assets/covers/home-v2.webp
 intro: 这里记录我的创作。
